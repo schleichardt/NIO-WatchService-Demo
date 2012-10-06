@@ -1,4 +1,7 @@
 apply plugin: 'java'
 apply plugin:'application'
 
+sourceCompatibilit= 1.7
+targetCompatibility= 1.7
+
 mainClassName = "info.schleichardt.demo10062012.Main"
