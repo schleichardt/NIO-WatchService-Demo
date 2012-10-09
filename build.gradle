@@ -5,3 +5,7 @@ sourceCompatibilit= 1.7
 targetCompatibility= 1.7
 
 mainClassName = "info.schleichardt.demo10062012.Main"
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '1.2'
+}
